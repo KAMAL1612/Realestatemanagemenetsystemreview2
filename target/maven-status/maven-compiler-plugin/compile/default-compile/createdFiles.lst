@@ -1,0 +1,6 @@
+com\example\demo\modelservice\ModelService.class
+com\example\demo\RealEstateManagementMiniProjectApplication.class
+com\example\demo\modelrepository\ModelRepository.class
+com\example\demo\modelcontroller\ModelController.class
+com\example\demo\modelproject\ModelSeat.class
+com\example\demo\modelproject\SeatModel.class
